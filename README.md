@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning ML and rust
+- 📫 How to reach me: <charles-frazier@outlook.com>
+
 <!--
 **charlesfrazier/charlesfrazier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
