@@ -3,6 +3,11 @@
 - 🌱 I’m currently learning ML and rust
 - 📫 How to reach me: <charles-frazier@outlook.com>
 - 👯 I’m looking to collaborate on LLM using RAG, rust, and other cool stuff
+
+## For NJUers in Suzhou
+
+I have built a vps server for my own use, and I am willing to share it with you. If you are interested, please contact me by email.
+
 <!--
 **charlesfrazier/charlesfrazier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
