@@ -2,7 +2,10 @@
 
 - 🌱 I’m currently learning ML and rust
 - 📫 How to reach me: <charles-frazier@outlook.com>
-- 👯 I’m looking to collaborate on LLM using RAG, rust, and other cool stuff
+- 👯 I’m looking to collaborate on:
+    - LLM (RAG)
+    - rust
+    - biology (especially neuroscience)
 
 ## For NJUers in Suzhou 🤫
 
